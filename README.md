@@ -2,7 +2,7 @@
 Spam classification with LangGraph
 
 Notebook is a part of AI Agent course from HuggingFace. 
-Only change made currently is accessing Gemini API key instead of Google as well as some minor changes made to interact with LangFuse API.
+Only change made currently is accessing Gemini API key instead of OpenAI as well as some minor changes made to interact with LangFuse API.
 
 Looking to improve this project in the near future by:
 - Allowing personal gmail api (or access) integration for classification

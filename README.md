@@ -9,4 +9,4 @@ Looking to improve this project in the near future by:
 - Improving the classification task through Langfuse testing (or other framework)
 - Deployment for clean usage and interaction 
 
-Main skills displayed so far: Python, API integration, LangGraph
+Main skills displayed so far: Python, API integration, LangGraph Workflow creation
